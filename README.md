@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 # Hi, I'm Kolawole Fakeye 👋
+### I.T. Engineer | Systems Administrator | Data Engineering Specialist
 
-<!--
-**Kolawole-Fakeye/Kolawole-Fakeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned **I.T. Engineer and Systems Administrator** with over 15 years of experience managing complex digital infrastructures. I am currently specializing in **Data Engineering** to bridge the gap between robust system architecture and actionable data intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Technical Expertise
+- **Core Engineering:** Systems Administration, I.T. Infrastructure, Network Security.
+- **Data Stack:** Python (Pandas, NLP), R (Tidyverse, Data Visualization), SQL.
+- **Tools:** Google Colab, RStudio, Git/GitHub, Linux (Ubuntu/Debian).
+- **Domains:** Revenue Assurance (NRS), Maritime Logistics (Maersk), Media Monitoring (Fox News).
+
+## 📊 Featured Data Projects
+- **[NRS Revenue Audit](link-to-repo):** Automated tax discrepancy detection for the National Revenue Service.
+- **[Maersk Logistics Optimization](link-to-repo):** Fuel efficiency modeling for West African port routes.
+- **[Fox Media Intelligence](link-to-repo):** Live NLP sentiment pipeline for NGO media hubs.
+
+## 🤝 Connect with Me
+- **Location:** Lagos, Nigeria 🇳🇬
+- **Experience:** 15+ Years in I.T. Operations
+- **Current Focus:** Building production-ready data pipelines and automated monitoring systems.
+
+---
 -->
