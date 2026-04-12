@@ -1,4 +1,4 @@
-## Hi there 👋 # Hi, I'm Kolawole Fakeye 👋
+# Hi, I'm Kolawole Fakeye 👋
 ### I.T. Engineer | Systems Administrator | Data Engineering Specialist
 
 I am a seasoned **I.T. Engineer and Systems Administrator** with over 15 years of experience managing complex digital infrastructures. I am currently specializing in **Data Engineering** to bridge the gap between robust system architecture and actionable data intelligence.
