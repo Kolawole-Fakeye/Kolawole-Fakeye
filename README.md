@@ -13,7 +13,7 @@ I am a seasoned **I.T. Engineer and Systems Administrator** with over 15 years o
 ## 📊 Featured Data Projects
 - **[NRS Revenue Audit](https://github.com/Kolawole-Fakeye/NRS-Audit-Project):** Automated tax discrepancy detection for the National Revenue Service.
 - **[Maersk Logistics Optimization](https://github.com/Kolawole-Fakeye/MAERSK-Logistics-Optimization):** Fuel efficiency modeling for West African port routes.
-- **[Fox Media Intelligence](link-to-repo):** Live NLP sentiment pipeline for NGO media hubs.
+- **[Fox Media Intelligence](https://github.com/Kolawole-Fakeye/Fox-News-Media-Intelligence.):** Live NLP sentiment pipeline for NGO media hubs.
 
 ## 🤝 Connect with Me
 - **Location:** Lagos, Nigeria 🇳🇬
