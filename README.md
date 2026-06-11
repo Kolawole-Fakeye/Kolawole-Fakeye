@@ -23,18 +23,20 @@ Seasoned Systems Engineer with **15+ years** managing enterprise infrastructure 
 ## 🚀 Featured Projects
 
 ### 📻 **[Media Stream Telemetry Pipeline](https://github.com/Kolawole-Fakeye/media-stream-telemetry-pipeline)**
-**Current Focus** — Production-style automated analytics and monitoring system.
-- Built a full REST API using **FastAPI + Uvicorn + SQLite**.
-- Implemented real-time text analytics, trend detection, historical logging, and advanced SQL aggregations.
-- Engineered live system telemetry (latency, throughput, memory utilization) with strong emphasis on observability and clean architecture.
+Production-style automated analytics and monitoring system.
+- Core Architecture: Full-Stack REST API & Containerized Data Pipeline (FastAPI + SQLite + Docker Compose)
+
+- Engineering Highlights: Built a decoupled asynchronous data service featuring a custom NLP tokenization engine that scrubs linguistic noise in real-time. Integrated high-yield SQL aggregation layers for historical trend mining alongside live infrastructure telemetry streams (network throughput, server latency, memory profiles) to achieve production-grade observability.
 
 ### 🚢 **[Maritime Logistics Control Tower](https://github.com/Kolawole-Fakeye/maritime-logistics-control-tower)**
 Interactive Streamlit dashboard for port operations and fleet telemetry.
-- Simulates real-time monitoring of vessel performance, turnaround times, and demurrage costs.
+- Core Architecture: Real-Time Operations & Fleet Telemetry Dashboard (Streamlit + Plotly Express)
+- Engineering Highlights: Developed an interactive executive intelligence hub to simulate and track active vessel performance metrics. Engineered data models to dynamically compute maritime bottleneck indicators, isolating port turnaround efficiencies, fuel burn rates, and real-time demurrage cost accumulations.
 
 ### 🏛️ **[NRS Automated Revenue Audit Pipeline](https://github.com/Kolawole-Fakeye/nrs-automated-audit-pipeline)**
 Automated compliance and revenue analysis pipeline.
-- Features self-healing data ingestion and anomaly detection using Python, Pandas, and advanced SQL.
+- Core Architecture: High-Performance Columnar Audit Engine (Streamlit + FastAPI + Apache Parquet / PyArrow)
+- Engineering Highlights: Re-engineered a legacy tax monitoring data flow into an optimized binary Parquet storage layer, dropping I/O processing times to sub-millisecond levels. Implemented a defensive data-normalization pipeline that automatically heals schema anomalies on system startup, driving a multi-variable compliance risk-scoring matrix.
 
 ---
 
