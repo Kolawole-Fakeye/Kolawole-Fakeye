@@ -31,11 +31,13 @@ Production-style automated analytics and monitoring system.
 ### 🚢 **[Maritime Logistics Control Tower](https://github.com/Kolawole-Fakeye/maritime-logistics-control-tower)**
 Interactive Streamlit dashboard for port operations and fleet telemetry.
 - Core Architecture: Real-Time Operations & Fleet Telemetry Dashboard (Streamlit + Plotly Express)
+  
 - Engineering Highlights: Developed an interactive executive intelligence hub to simulate and track active vessel performance metrics. Engineered data models to dynamically compute maritime bottleneck indicators, isolating port turnaround efficiencies, fuel burn rates, and real-time demurrage cost accumulations.
 
 ### 🏛️ **[NRS Automated Revenue Audit Pipeline](https://github.com/Kolawole-Fakeye/nrs-automated-audit-pipeline)**
 Automated compliance and revenue analysis pipeline.
 - Core Architecture: High-Performance Columnar Audit Engine (Streamlit + FastAPI + Apache Parquet / PyArrow)
+  
 - Engineering Highlights: Re-engineered a legacy tax monitoring data flow into an optimized binary Parquet storage layer, dropping I/O processing times to sub-millisecond levels. Implemented a defensive data-normalization pipeline that automatically heals schema anomalies on system startup, driving a multi-variable compliance risk-scoring matrix.
 
 ---
